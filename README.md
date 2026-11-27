@@ -136,3 +136,7 @@ Emoji:
 emoji-cheat-sheet.com
 Markup : Code appears between colons :EMOJICODE:
 :mask:
+
+Ma info
+Ranchida Palavichai
+682115039
